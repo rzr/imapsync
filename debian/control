@@ -3,7 +3,10 @@ Section: mail
 Priority: optional
 Maintainer: RISKO Gergely <risko@debian.org>
 Build-Depends: cdbs, debhelper
-Build-Depends-Indep: perl, libdigest-hmac-perl, libterm-readkey-perl, libio-socket-ssl-perl
+Build-Depends-Indep: perl, libdigest-hmac-perl, libterm-readkey-perl, libio-socket-ssl-perl, 
+  time,
+  libmail-imapclient-perl,
+  libfile-copy-recursive-perl
 Standards-Version: 3.7.3
 
 Package: imapsync

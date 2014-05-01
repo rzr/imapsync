@@ -1,6 +1,6 @@
-debian/IMAPClient229/Mail/IMAPClient/MessageSet.pm /usr/share/imapsync/Mail/IMAPClient/
-debian/IMAPClient229/Mail/IMAPClient/Thread.pm /usr/share/imapsync/Mail/IMAPClient/
-debian/IMAPClient229/Mail/IMAPClient/BodyStructure/Parse.pm /usr/share/imapsync/Mail/IMAPClient/BodyStructure/
-debian/IMAPClient229/Mail/IMAPClient/BodyStructure.pm /usr/share/imapsync/Mail/IMAPClient/
-debian/IMAPClient229/Mail/IMAPClient.pm /usr/share/imapsync/Mail/
-debian/IMAPClient229/Mail/IMAPClient.pod /usr/share/imapsync/Mail/
+./W/Mail-IMAPClient-3.35/lib/Mail/IMAPClient/MessageSet.pm /usr/share/imapsync/Mail/IMAPClient/
+./W/Mail-IMAPClient-3.35/lib/Mail/IMAPClient/Thread.pm /usr/share/imapsync/Mail/IMAPClient/
+./W/Mail-IMAPClient-3.35/lib/Mail/IMAPClient/BodyStructure/Parse.pm /usr/share/imapsync/Mail/IMAPClient/BodyStructure/
+./W/Mail-IMAPClient-3.35/lib/Mail/IMAPClient/BodyStructure.pm /usr/share/imapsync/Mail/IMAPClient/
+./W/Mail-IMAPClient-3.35/lib/Mail/IMAPClient.pm /usr/share/imapsync/Mail/
+./W/Mail-IMAPClient-3.35/lib/Mail/IMAPClient.pod /usr/share/imapsync/Mail/
