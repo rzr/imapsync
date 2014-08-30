@@ -6,3 +6,7 @@ debian/*.subvars
 debian/*/*/*
 debian/files
 packaging/*/*
+*~
+debian/*.log
+debian/*.substvars
+debian/files
