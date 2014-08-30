@@ -6,7 +6,8 @@ Build-Depends: cdbs, debhelper
 Build-Depends-Indep: perl, libdigest-hmac-perl, libterm-readkey-perl, libio-socket-ssl-perl, 
   time,
   libmail-imapclient-perl,
-  libfile-copy-recursive-perl
+  libfile-copy-recursive-perl,
+  libio-tee-perl
 Standards-Version: 3.7.3
 
 Package: imapsync
